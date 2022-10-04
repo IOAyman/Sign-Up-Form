@@ -1,3 +1,5 @@
-- This project (Sign-Up Form) is intended to give me a chance to apply some new things that I have learned from "theodinproject.com" curriculum.
+# Description
 
-- You can see the form hosted on github pages from here: https://red1code.github.io/Sign-Up-Form/
+> A simple Sign-Up Form project. Built for practicing [The Odin Project]() cirrculum.
+
+Live preview at https://red1code.github.io/Sign-Up-Form/
